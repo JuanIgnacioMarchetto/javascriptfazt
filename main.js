@@ -209,5 +209,70 @@ switch(typeCard){
 
 }
 */
+/*
+var count = 50;
 
+while(count > 0){
+   console.log('hello word');
+}
+*/
+/*
+let count = 50;
 
+while(count > 0){
+   console.log('hello word');
+   count = count -1;}
+*/
+/*
+let count = 50;
+
+while(count > 0){
+   console.log(count);
+   count = count -1;}
+   */
+
+/*
+   let count = 0;
+
+   while(count <= 50){
+      console.log(count);
+      count++;}
+*/
+/*
+let names= ['ryan','joe','john'];
+
+console.log(names{0});
+*/
+//let names= ['ryan','joe','john','mario'];
+
+/*console.log(names[3]);
+
+let names= ['ryan','joe','john'];
+
+console.log(names.length);*/
+/*
+for ( let i=0;i< names.length;i++){
+console.log(names[i])
+}*/
+/*
+for ( let i=names.length-1; i>= 0;i--){
+   console.log(names[i])
+   }
+*/
+/*
+let number  = [1,2,3];
+
+for (let i = names.length -1; i>=0;i--){
+   console.log(names[i]);
+}*/
+
+function greeting ( name){
+   console.log('hello')
+   console.log(name)
+
+   console.log('hola '+ name)
+}
+
+greeting('pepe' );
+greeting('pupu' );
+greeting('pedro' );
