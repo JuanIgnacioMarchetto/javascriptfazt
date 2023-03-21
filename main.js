@@ -364,15 +364,42 @@ function Saludar (){
 let saludo =Saludar ();
 document.write(saludo)*/
 
-
+/*
 let num1= 32;
 let num2= 12;
 
 let res= num1+num2;
 
-document.write(res);
+document.write(res);*/
 
+/*
+function suma (){
+   
+let num1= 32;
+let num2= 12;
+   let res = num1+ num2;
+   document.write(res);
+}
 
+suma()
+*//*
+function suma (){
+   
+   let num1= 32;
+   let num2= 12;
+      let res = num1+ num2;
+      document.write(res);
+   }
 
+suma()*/
 
+function suma (num1,num2){
+  
+      let res = num1+ num2;
+      document.write(res);
+      document.write("<br>")
+   }
 
+   suma(12,32)
+   suma(22,55)
+   suma(300,888)
