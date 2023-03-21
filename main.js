@@ -142,3 +142,72 @@ let result= input == passwordDB;
 
 console.log (result)
 */
+/*
+let passwordDB = 'pepe123'
+
+let input= 'koxkoxkc'
+
+let result= input == passwordDB;
+
+if (result === true){
+   console.log('loging correcto');
+}
+
+if (result=== false){
+   console.log('login Incorrecto');
+}
+*/
+/*
+let passwordDB = 'pepe123'
+
+let input= 'pepe123'
+
+let result= input == passwordDB;
+
+if (result === true){
+   console.log('loging correcto');
+}else{
+   console.log('login Incorrecto')};
+*/
+
+/*
+let score = 70;
+
+if(score>30){
+   console.log('you need to parctice more');
+}
+if(score > 15){
+   console.log('estas mejorando');
+}
+else{
+   console.log('you need to follow this tutorial');
+}*/
+
+/*
+let score = 70;
+
+if(score>30){
+   console.log('you need to parctice more');
+}else if(score > 15){
+   console.log('estas mejorando');
+}
+else{
+   console.log('you need to follow this tutorial');
+}*/
+
+/*let typeCard= 'debit card';
+
+switch(typeCard){
+   case 'debit card':
+      console.log('this is a debit card');
+      break;
+   case 'credit card':
+      console.log('this is a credit card');
+      break
+   default:
+      console.log('no card');
+
+}
+*/
+
+
