@@ -123,7 +123,7 @@ let result= numberOne != numberOne;
 let result= numberOne <= numberDos;
 let result= numberOne >= numberDos
 */
-
+/*
 let passwordDB = 'pepe123'
 
 let input= 'jsdkjskjdskj'
@@ -141,3 +141,4 @@ let input= 'pepe123'
 let result= input == passwordDB;
 
 console.log (result)
+*/
