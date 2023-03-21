@@ -265,7 +265,7 @@ let number  = [1,2,3];
 for (let i = names.length -1; i>=0;i--){
    console.log(names[i]);
 }*/
-
+/*
 function greeting ( name){
    console.log('hello')
    console.log(name)
@@ -276,3 +276,4 @@ function greeting ( name){
 greeting('pepe' );
 greeting('pupu' );
 greeting('pedro' );
+*/
