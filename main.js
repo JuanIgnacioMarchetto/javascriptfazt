@@ -277,3 +277,12 @@ greeting('pepe' );
 greeting('pupu' );
 greeting('pedro' );
 */
+
+function add(n1,n2){
+   console.log(n1+n2);
+}
+add(100,200)
+add(655,200)
+add(300,535)
+add(300,200)
+add(3,2)
