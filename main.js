@@ -277,7 +277,7 @@ greeting('pepe' );
 greeting('pupu' );
 greeting('pedro' );
 */
-
+/*
 function add(n1,n2){
    console.log(n1+n2);
 }
@@ -285,4 +285,28 @@ add(100,200)
 add(655,200)
 add(300,535)
 add(300,200)
-add(3,2)
+add(3,2)*/
+
+
+//===========javascript orientado a objetos=====//
+
+/*
+console.log(typeof'helo word')
+console.log(typeof 100)
+console.log(typeof false)
+
+console.log(typeof [])
+console.log(typeof {})
+
+console.log(typeof new Date())
+console.log(typeof new RegExp())
+
+console.log(typeof new Number(100))
+console.log(typeof new String('hello'))
+console.log(typeof new Boolean(true))
+
+
+console.log( new Number(100))
+console.log( new String('hello'))
+console.log( new Boolean(true))
+*/
