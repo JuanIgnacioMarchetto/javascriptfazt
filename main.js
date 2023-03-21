@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=RqQ1d1qEWlE&ab_channel=Fazt
 /*console.log ('hola mundo')
 
 document.write("<h1>Hola mundo</h1>")
@@ -310,3 +311,68 @@ console.log( new Number(100))
 console.log( new String('hello'))
 console.log( new Boolean(true))
 */
+
+///=========funciones======https://www.youtube.com/watch?v=z95mZVUcJ-E&t=10295s&ab_channel=SoyDalto==//
+
+/*
+respuesta = prompt ("hola juan ¿como fue tu dia?");
+if (respuesta=="bien"){
+   alert("me alegro")
+}else{
+   alert("una pena")
+}*/
+
+/*
+function  Saludar (){
+   respuesta = prompt ("hola juan ¿como fue tu dia?");
+if (respuesta=="bien"){
+   alert("me alegro")
+}else{
+   alert("una pena")
+}
+}
+Saludar()
+
+Saludar()*/
+
+/*
+var = function  Saludar (){
+   respuesta = prompt ("hola juan ¿como fue tu dia?");
+if (respuesta=="bien"){
+   alert("me alegro")
+}else{
+   alert("una pena")
+}
+}
+Saludar()
+
+Saludar()*/
+/*
+function Saludar (){
+   alert("hola");
+
+}
+let saludo =Saludar ();
+document.write(saludo) return= undefined
+*/
+/*
+function Saludar (){
+   alert("hola");
+   return"la funcion se ejecuto correctamente"
+
+}
+let saludo =Saludar ();
+document.write(saludo)*/
+
+
+let num1= 32;
+let num2= 12;
+
+let res= num1+num2;
+
+document.write(res);
+
+
+
+
+
