@@ -65,6 +65,36 @@ console.log(
    })
 */
 /*
+
+
+const PI = 3,1415; //constante
+pi=100//no se puede cambiar el valor
+*/
+
+//camelCase
+
+//let nombreDePersona ='gordon';
+
+/*----------------*/
+/*
+let numberUno=60;
+let numberDos=100;
+let result1 = numberDos + numberUno;
+
+let numberUno=60;
+let numberDos=100;
+let result2 = numberDos - numberUno;
+
+let numberUno=60;
+let numberDos=100;
+let result3 = numberDos % numberUno;
+
+let numberUno=60;
+let numberDos=100;
+let result4 = numberDos * numberUno;
+
+console.log(result1,result2,result3,result4);
+
 var nameuser="john";
 let lastname="carter";
 
@@ -78,9 +108,36 @@ nameuser="pepe",
 console.log(nameuser)
 
 console.log(fullname)
-
-const PI = 3,1415;
 */
 
+/*
+let numberOne =100;
+let numberDos= 500;
+
+let result= numberOne < numberDos;
+let result= numberOne > numberDos;
+let result= numberOne = numberDos;
+let result= numberOne < numberOne;
+let result= numberOne != numberDos;
+let result= numberOne != numberOne;
+let result= numberOne <= numberDos;
+let result= numberOne >= numberDos
+*/
+
+let passwordDB = 'pepe123'
+
+let input= 'jsdkjskjdskj'
+
+let result= input == passwordDB;
+
+console.log (result)
 
 
+
+let passwordDB = 'pepe123'
+
+let input= 'pepe123'
+
+let result= input == passwordDB;
+
+console.log (result)
